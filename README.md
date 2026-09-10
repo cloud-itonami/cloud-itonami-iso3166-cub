@@ -44,7 +44,7 @@ substantive pages did not extract via `pdftotext` and were not OCR'd):
   genuinely different from every other iso3166 sibling's (none of which
   check WHICH GOVERNMENT BODY has jurisdiction, only whether a
   bidder/investor is eligible).
-- `src/statute/facts.cljc` -- general-law catalog: Ley No. 118 itself
+- `src/statute/facts.kotoba` -- general-law catalog: Ley No. 118 itself
   (also catalogued here as an ongoing compliance statute, not just a
   market-entry gate), Decreto-Ley No. 226 "Del Registro Mercantil"
   (2001, business registration), and Ley No. 116 "Código de Trabajo"
@@ -67,7 +67,7 @@ This repo carries a **country-level regional-culture catalog**
 Wave 1, in `com-junkawasaki/root`) — national dishes, protected products,
 beverages, crafts, festivals and heritage sites for Cuba:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.kotoba` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring the fleet's `statute.facts` convention).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from
