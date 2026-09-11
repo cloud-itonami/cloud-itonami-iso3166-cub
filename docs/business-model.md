@@ -12,7 +12,7 @@
   Art. 21 assigns by sector/modality (Consejo de Estado / Consejo de
   Ministros / a delegated jefe de organismo) -- a case-by-case
   AUTHORIZATION pipeline, not a competitive-tender procurement portal
-  (see `src/marketentry/facts.cljc`)
+  (see `src/marketentry/facts.cljk`)
 - Registro Mercantil (Ministerio de Justicia, Decreto-Ley No. 226/2001)
   business registration -- required for the empresa mixta / contrato de
   asociación económica internacional / empresa de capital totalmente
